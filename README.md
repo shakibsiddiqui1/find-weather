@@ -2,6 +2,7 @@
 It will show weather status and time in your region. You can also search weather in specific region.<br/><br/>
 ## Live Demo
 **Click URL:** [Find Weather](https://finds-weathers.netlify.app/)<br/><br/>
+**Please allow location access because it tells weather by calculating longitude and latitude**
 ## Used Library, Framework and API
 - ***React JS*** <br/>
 - ***Tailwind CSS***       : For beautiful UI and Responsiveness.<br/>
