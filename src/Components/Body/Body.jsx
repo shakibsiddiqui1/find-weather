@@ -124,7 +124,7 @@ const Body = () => {
         if(city && city.length>0)
         {
             try{
-                let url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=e684164b4610bee37e8df889e9083c18&units=metric`
+                let url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=secretkey&units=metric`
                 let response = await fetch(url)
                 if(response.ok)
                 {
